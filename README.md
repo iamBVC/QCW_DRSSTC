@@ -2,6 +2,7 @@
 PCB and code of my QCW DRSSTC, a project realized in my final exam for the Bachelor's degree in Electronic Engineering
 
 PCB
+
 <img src="https://github.com/bryanthehacker/QCW_DRSSTC/blob/main/20201216_123638.jpg" width="700"/>
 <img src="https://github.com/bryanthehacker/QCW_DRSSTC/blob/main/20201216_123638.jpg" width="700"/>
 <img src="https://github.com/bryanthehacker/QCW_DRSSTC/blob/main/20201216_123900.jpg" width="700"/>
