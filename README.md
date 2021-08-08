@@ -3,7 +3,7 @@ PCB and code of my QCW DRSSTC, a project realized in my final exam for the Bache
 
 PCB
 
-<img src="https://github.com/bryanthehacker/QCW_DRSSTC/blob/main/20201216_123638.jpg" width="700"/><img src="https://github.com/bryanthehacker/QCW_DRSSTC/blob/main/20201216_123638.jpg" width="700"/><img src="https://github.com/bryanthehacker/QCW_DRSSTC/blob/main/20201216_123900.jpg" width="700"/><img src="https://github.com/bryanthehacker/QCW_DRSSTC/blob/main/20201216_124050.jpg" width="700"/>
+<img src="https://github.com/bryanthehacker/QCW_DRSSTC/blob/main/20201216_123638.jpg" width="700"/><img src="https://github.com/bryanthehacker/QCW_DRSSTC/blob/main/20201216_123900.jpg" width="700"/><img src="https://github.com/bryanthehacker/QCW_DRSSTC/blob/main/20201216_124050.jpg" width="700"/>
 
 Project assembled
 
